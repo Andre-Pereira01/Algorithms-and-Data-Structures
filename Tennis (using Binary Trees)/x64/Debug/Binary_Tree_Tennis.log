@@ -1,0 +1,5 @@
+﻿  Binary_Tree_Tennis.cpp
+C:\Users\André Pereira\Desktop\Universidade\3º Ano\2º Semestre\Algoritmia e Estrutura de Dados\Algorithms-Data-Structures-main\Algorithms-Data-Structures-main\Binary_Tree_Tennis\Binary_Tree_Tennis.cpp(15,2): warning C4091: 'typedef ': ignored on left of 'PLAYER' when no variable is declared
+C:\Users\André Pereira\Desktop\Universidade\3º Ano\2º Semestre\Algoritmia e Estrutura de Dados\Algorithms-Data-Structures-main\Algorithms-Data-Structures-main\Binary_Tree_Tennis\Binary_Tree_Tennis.cpp(23,2): warning C4091: 'typedef ': ignored on left of 'BTREE_NODE' when no variable is declared
+C:\Users\André Pereira\Desktop\Universidade\3º Ano\2º Semestre\Algoritmia e Estrutura de Dados\Algorithms-Data-Structures-main\Algorithms-Data-Structures-main\Binary_Tree_Tennis\Binary_Tree_Tennis.cpp(27,56): warning C4091: 'typedef ': ignored on left of 'BTREE_LOCATION' when no variable is declared
+  Binary_Tree_Tennis.vcxproj -> C:\Users\André Pereira\Desktop\Universidade\3º Ano\2º Semestre\Algoritmia e Estrutura de Dados\Algorithms-Data-Structures-main\Algorithms-Data-Structures-main\Binary_Tree_Tennis\x64\Debug\Binary_Tree_Tennis.exe
